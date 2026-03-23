@@ -19,14 +19,14 @@ After running, type or paste your keylogger string into the console and press En
 
 ## Implemented features
 A custom `MyStack<T>` class featuring standard stack operations:
-- `**Pop()**`
-- `**Push(T item)**`
-- `**Peek**`
-- `**IsEmpty()**`
-- `**ToArray()**`
-- `**Count**`
+- `Pop()`
+- `Push(T item)`
+- `Peek`
+- `IsEmpty()`
+- `ToArray()`
+- `Count`
 
-A `**Decoder**` method that processes the string using a two-stack system to handle cursor movement.
+A `Decoder` method that processes the string using a two-stack system to handle cursor movement.
 
 ## Lab exercise instruction (in polish)
 **Zadanie: Złam hasło**
